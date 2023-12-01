@@ -6,7 +6,7 @@ An automated bitcoin wallet generator that brute forces random wallet addresses 
 
 [![](https://img.shields.io/github/stars/davidmgilbert/btc-hack-offline.svg)](https://github.com/davdmgilbert/btc-hack-offline)
 
-My Bitcoin Wallet Address: 1LKKJE62ygo2c9K2Xc8GxuGwpVDnvyRFRD
+My Bitcoin Wallet Address: 1P8S37MwnSwXnBNa2T2HGSX9qpjtDe1zR2
 
 # Dependencies
 
@@ -22,7 +22,7 @@ sudo apt-get install libgmp3-dev
 # Installation
 
 ```
-git clone https://github.com/davdmgilbert/btc-hack-offline.git btc-hack-offline
+git clone https://github.com/AgainsTh3Gran3/btc-hack-offline.git
 ```
 ```
 cd btc-hack-offline && pip3 install -r requirements.txt
